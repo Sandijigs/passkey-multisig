@@ -3,7 +3,7 @@ name = "devnet"
 deployment_fee_rate = 10
 
 [accounts.deployer]
-mnemonic = "twice particular affair smile push picture miss apart office twelve lock wrong"
+mnemonic = "sound idle panel often situate develop unit text design antenna vendor screen opinion balcony share trigger accuse scatter visa uniform brass update opinion media"
 balance = 10_000_000_000_000
 
 [accounts.wallet_1]
